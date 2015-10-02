@@ -1,0 +1,8 @@
+.Activity {
+	background-color: rgb( 254, 253, 214 );
+	display: inline-block;
+	border: 1px solid black;
+	padding: 15px;
+	width: 250px;
+	text-align: center; 
+}
