@@ -6,3 +6,7 @@
 	width: 250px;
 	text-align: center; 
 }
+#lineSVG {
+	position: absolute;
+	border: 1px solid black;
+}
